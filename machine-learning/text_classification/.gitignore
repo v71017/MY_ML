@@ -1,0 +1,8 @@
+.idea
+*.iml
+
+.gradle
+settings.gradle
+build
+out
+resources/dataset

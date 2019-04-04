@@ -1,0 +1,11 @@
+#!/bin/bash 
+
+i=0
+ls -l *.txt | sort | while read x;
+do
+set -- junk $x
+shift
+filename=$(echo "$i.$9")
+mv $9 $filename
+i=$((i+1))
+done

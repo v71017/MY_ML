@@ -1,0 +1,2 @@
+weka.classifiers.rules.DecisionTable$DummySubsetEvaluator
+weka.classifiers.rules.DecisionTable

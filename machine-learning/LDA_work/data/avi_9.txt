@@ -1,0 +1,8 @@
+SEVERE : PI:Network:avi:VS % up
+*Device* : las-f01-avi-prd.dcnet.intuit.net
+*IP Address* : 10.162.1.138
+*Device Type* : None : None : None
+*Location* : LAS-f01 : Fabric
+*Metric* : network.avi.virtualservice.status_up
+*Metrics URL* : https://intuit.wavefront.com/u/B4HZByn6MK
+*Tags* : location=las, env=prd, os=avi, zone=f01

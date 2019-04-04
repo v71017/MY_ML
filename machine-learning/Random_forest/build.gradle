@@ -1,0 +1,15 @@
+group 'com.mavi'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.5
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'nz.ac.waikato.cms.weka', name: 'weka-stable', version: '3.6.6'
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+}

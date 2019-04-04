@@ -1,0 +1,9 @@
+weka.classifiers.pmml.consumer.SupportVectorMachineModel$PolynomialKernel
+weka.classifiers.pmml.consumer.SupportVectorMachineModel$RadialBasisKernel
+weka.classifiers.pmml.consumer.SupportVectorMachineModel$SupportVectorMachine
+weka.classifiers.pmml.consumer.SupportVectorMachineModel$SVM_representation
+weka.classifiers.pmml.consumer.SupportVectorMachineModel
+weka.classifiers.pmml.consumer.SupportVectorMachineModel$Kernel
+weka.classifiers.pmml.consumer.SupportVectorMachineModel$LinearKernel
+weka.classifiers.pmml.consumer.SupportVectorMachineModel$SigmoidKernel
+weka.classifiers.pmml.consumer.SupportVectorMachineModel$classificationMethod

@@ -1,0 +1,4 @@
+weka.core.expressionlanguage.common.IfElseMacro$BooleanIfElse
+weka.core.expressionlanguage.common.IfElseMacro$StringIfElse
+weka.core.expressionlanguage.common.IfElseMacro$DoubleIfElse
+weka.core.expressionlanguage.common.IfElseMacro

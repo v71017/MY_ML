@@ -1,0 +1,7 @@
+weka.core.packageManagement.VersionPackageConstraint$VersionComparison$2
+weka.core.packageManagement.VersionPackageConstraint$VersionComparison$3
+weka.core.packageManagement.VersionPackageConstraint$VersionComparison$4
+weka.core.packageManagement.VersionPackageConstraint$VersionComparison$5
+weka.core.packageManagement.VersionPackageConstraint
+weka.core.packageManagement.VersionPackageConstraint$VersionComparison$1
+weka.core.packageManagement.VersionPackageConstraint$VersionComparison

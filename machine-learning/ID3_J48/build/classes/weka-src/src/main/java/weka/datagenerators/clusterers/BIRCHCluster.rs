@@ -1,0 +1,3 @@
+weka.datagenerators.clusterers.BIRCHCluster$Cluster
+weka.datagenerators.clusterers.BIRCHCluster
+weka.datagenerators.clusterers.BIRCHCluster$GridVector

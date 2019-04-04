@@ -1,0 +1,10 @@
+*.class
+*.jar
+*.properties
+!src/test/resources/lda.properties
+
+.classpath
+.project
+.settings
+
+target/*

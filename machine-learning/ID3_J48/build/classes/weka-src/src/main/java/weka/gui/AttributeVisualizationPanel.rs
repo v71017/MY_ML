@@ -1,0 +1,5 @@
+weka.gui.AttributeVisualizationPanel$2
+weka.gui.AttributeVisualizationPanel$1
+weka.gui.AttributeVisualizationPanel$BarCalc
+weka.gui.AttributeVisualizationPanel
+weka.gui.AttributeVisualizationPanel$HistCalc

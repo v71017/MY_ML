@@ -1,0 +1,9 @@
+weka.gui.knowledgeflow.steps.SorterStepEditorDialog$8
+weka.gui.knowledgeflow.steps.SorterStepEditorDialog$7
+weka.gui.knowledgeflow.steps.SorterStepEditorDialog$6
+weka.gui.knowledgeflow.steps.SorterStepEditorDialog$5
+weka.gui.knowledgeflow.steps.SorterStepEditorDialog$4
+weka.gui.knowledgeflow.steps.SorterStepEditorDialog$3
+weka.gui.knowledgeflow.steps.SorterStepEditorDialog$2
+weka.gui.knowledgeflow.steps.SorterStepEditorDialog$1
+weka.gui.knowledgeflow.steps.SorterStepEditorDialog

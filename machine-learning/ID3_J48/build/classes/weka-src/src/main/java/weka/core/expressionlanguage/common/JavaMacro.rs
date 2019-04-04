@@ -1,0 +1,6 @@
+weka.core.expressionlanguage.common.JavaMacro$InvalidSignature
+weka.core.expressionlanguage.common.JavaMacro$JavaMethod
+weka.core.expressionlanguage.common.JavaMacro$StringJavaMethod
+weka.core.expressionlanguage.common.JavaMacro$DoubleJavaMethod
+weka.core.expressionlanguage.common.JavaMacro
+weka.core.expressionlanguage.common.JavaMacro$BooleanJavaMethod

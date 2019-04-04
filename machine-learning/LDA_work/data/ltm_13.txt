@@ -1,0 +1,8 @@
+SEVERE : PI:Network:f5:GTM-LTM server status
+*Device* : waqc-gtm2-prd_eth0.dcnet.intuit.net
+*IP Address* : 10.159.25.24
+*Device Type* : BIG-IP 4200 : f5 : 11.5.3
+*Location* : QCY-1 : Control_Tier
+*Metric* : network.f5.gtmserveravailstate
+*Metrics URL* : https://intuit.wavefront.com/u/y3byDvYlwj
+*Tags* : server=_common_las-f01-avi-prd.dcnet.intuit.net, model=unknown, location=qcy, os=f5, zone=1

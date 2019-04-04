@@ -1,0 +1,24 @@
+@RELATION AVI
+
+@ATTRIBUTE cond1	NUMERIC
+@ATTRIBUTE cond2 	NUMERIC
+@ATTRIBUTE cond3 	NUMERIC
+@ATTRIBUTE cond4	NUMERIC
+@ATTRIBUTE cond5	NUMERIC
+@ATTRIBUTE cond6	NUMERIC
+@ATTRIBUTE cond7	NUMERIC
+
+@ATTRIBUTE class 	{class1,class2,class3,class4,class5,class6,class7,class8,class9,class10,class11 }
+
+@DATA
+1,1,0,1,1,1,1,class1
+1,0,1,1,1,1,1,class2
+1,0,0,0,1,1,1,class3
+1,1,1,0,1,1,1,class4
+1,0,0,0,0,0,1,class5
+1,0,0,0,0,1,1,class6
+0,1,1,1,1,1,1,class7
+0,1,0,1,1,1,1,class8
+0,1,1,1,0,0,1,class9
+0,1,1,1,0,0,0,class10
+1,1,0,1,0,0,0,class11

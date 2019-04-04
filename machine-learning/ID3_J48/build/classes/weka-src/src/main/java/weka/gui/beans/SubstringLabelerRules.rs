@@ -1,0 +1,2 @@
+weka.gui.beans.SubstringLabelerRules$SubstringLabelerMatchRule
+weka.gui.beans.SubstringLabelerRules

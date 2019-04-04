@@ -1,0 +1,12 @@
+weka.gui.beans.CostBenefitAnalysis$1
+weka.gui.beans.CostBenefitAnalysis$2
+weka.gui.beans.CostBenefitAnalysis$AnalysisPanel$ConfusionCell$1
+weka.gui.beans.CostBenefitAnalysis$AnalysisPanel$1
+weka.gui.beans.CostBenefitAnalysis
+weka.gui.beans.CostBenefitAnalysis$AnalysisPanel$3
+weka.gui.beans.CostBenefitAnalysis$AnalysisPanel$2
+weka.gui.beans.CostBenefitAnalysis$AnalysisPanel$5
+weka.gui.beans.CostBenefitAnalysis$AnalysisPanel$4
+weka.gui.beans.CostBenefitAnalysis$AnalysisPanel
+weka.gui.beans.CostBenefitAnalysis$AnalysisPanel$6
+weka.gui.beans.CostBenefitAnalysis$AnalysisPanel$ConfusionCell

@@ -1,0 +1,3 @@
+weka.gui.knowledgeflow.AttributeSummaryPerspective$1
+weka.gui.knowledgeflow.AttributeSummaryPerspective$AttDefaults
+weka.gui.knowledgeflow.AttributeSummaryPerspective

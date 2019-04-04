@@ -1,0 +1,11 @@
+CRITICAL : BIGIP GTM SERVER NOT AVAIL
+*Device* : waqc-igtm1_eth0.dcnet.intuit.net
+*Device Type* : C109 : f5 : 11.5.3
+*Location* : QCY-A : Management_Network
+Description
+----------------
+A "bigipGtmServerNotAvail" event has occurred, from GnSNMPDev device, named waqc-igtm1_eth0.dcnet.intuit.net.  A server is becoming unavailable in global traffic management module."  bigipNotifyObjMsg = SNMP_TRAP: Server /Common/qcy-ses-avi-prd.dcnet.intuit.net (ip=10.158.2.43) state change green --> red (No enabled VS available)
+
+IP Address
+----------------
+10.152.252.75

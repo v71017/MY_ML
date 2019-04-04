@@ -1,0 +1,9 @@
+weka.gui.EnvironmentField$WideComboBox
+weka.gui.EnvironmentField$1
+weka.gui.EnvironmentField
+weka.gui.EnvironmentField$3
+weka.gui.EnvironmentField$2
+weka.gui.EnvironmentField$5
+weka.gui.EnvironmentField$4
+weka.gui.EnvironmentField$7
+weka.gui.EnvironmentField$6

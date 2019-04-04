@@ -1,0 +1,8 @@
+SEVERE : PI:Network:avi.Service Engine HealthScore
+*Device* : qcy-f01-avi-ppd.dcnet.intuit.net
+*IP Address* : 10.142.1.137
+*Device Type* : None : None : None
+*Location* : QCY-f01 : Fabric
+*Metric* : network.avi.serviceengine.f01ssppd-se-ygzmm.healthscore
+*Metrics URL* : https://intuit.wavefront.com/u/Y9MT9bYsjl
+*Tags* : location=qcy, env=ppd, os=avi, zone=f01

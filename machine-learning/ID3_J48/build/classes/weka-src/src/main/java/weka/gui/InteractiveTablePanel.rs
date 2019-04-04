@@ -1,0 +1,3 @@
+weka.gui.InteractiveTablePanel$InteractiveTableModelListener
+weka.gui.InteractiveTablePanel$InteractiveRenderer
+weka.gui.InteractiveTablePanel

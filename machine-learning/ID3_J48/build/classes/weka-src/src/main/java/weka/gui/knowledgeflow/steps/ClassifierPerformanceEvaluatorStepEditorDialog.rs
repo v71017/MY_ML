@@ -1,0 +1,2 @@
+weka.gui.knowledgeflow.steps.ClassifierPerformanceEvaluatorStepEditorDialog$1
+weka.gui.knowledgeflow.steps.ClassifierPerformanceEvaluatorStepEditorDialog

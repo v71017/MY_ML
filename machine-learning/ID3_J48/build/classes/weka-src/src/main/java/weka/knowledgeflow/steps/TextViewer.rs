@@ -1,0 +1,2 @@
+weka.knowledgeflow.steps.TextViewer$TextNotificationListener
+weka.knowledgeflow.steps.TextViewer

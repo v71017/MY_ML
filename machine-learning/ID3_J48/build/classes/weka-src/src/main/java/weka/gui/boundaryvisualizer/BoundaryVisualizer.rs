@@ -1,0 +1,15 @@
+weka.gui.boundaryvisualizer.BoundaryVisualizer
+weka.gui.boundaryvisualizer.BoundaryVisualizer$1
+weka.gui.boundaryvisualizer.BoundaryVisualizer$2
+weka.gui.boundaryvisualizer.BoundaryVisualizer$AxisPanel
+weka.gui.boundaryvisualizer.BoundaryVisualizer$7
+weka.gui.boundaryvisualizer.BoundaryVisualizer$10
+weka.gui.boundaryvisualizer.BoundaryVisualizer$8
+weka.gui.boundaryvisualizer.BoundaryVisualizer$11
+weka.gui.boundaryvisualizer.BoundaryVisualizer$9
+weka.gui.boundaryvisualizer.BoundaryVisualizer$3
+weka.gui.boundaryvisualizer.BoundaryVisualizer$4
+weka.gui.boundaryvisualizer.BoundaryVisualizer$5
+weka.gui.boundaryvisualizer.BoundaryVisualizer$12
+weka.gui.boundaryvisualizer.BoundaryVisualizer$6
+weka.gui.boundaryvisualizer.BoundaryVisualizer$13

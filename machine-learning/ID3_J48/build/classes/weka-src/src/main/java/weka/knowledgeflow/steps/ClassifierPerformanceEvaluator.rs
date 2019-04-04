@@ -1,0 +1,4 @@
+weka.knowledgeflow.steps.ClassifierPerformanceEvaluator$AggregateableClassifierErrorsPlotInstances
+weka.knowledgeflow.steps.ClassifierPerformanceEvaluator
+weka.knowledgeflow.steps.ClassifierPerformanceEvaluator$EvaluationCallback
+weka.knowledgeflow.steps.ClassifierPerformanceEvaluator$EvaluationTask

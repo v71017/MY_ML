@@ -1,0 +1,12 @@
+weka.datagenerators.classifiers.classification.Agrawal$9
+weka.datagenerators.classifiers.classification.Agrawal$ClassFunction
+weka.datagenerators.classifiers.classification.Agrawal$5
+weka.datagenerators.classifiers.classification.Agrawal$10
+weka.datagenerators.classifiers.classification.Agrawal$6
+weka.datagenerators.classifiers.classification.Agrawal$7
+weka.datagenerators.classifiers.classification.Agrawal
+weka.datagenerators.classifiers.classification.Agrawal$8
+weka.datagenerators.classifiers.classification.Agrawal$1
+weka.datagenerators.classifiers.classification.Agrawal$2
+weka.datagenerators.classifiers.classification.Agrawal$3
+weka.datagenerators.classifiers.classification.Agrawal$4

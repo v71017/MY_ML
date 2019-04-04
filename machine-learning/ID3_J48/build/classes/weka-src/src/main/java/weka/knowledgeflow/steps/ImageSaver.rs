@@ -1,0 +1,3 @@
+weka.knowledgeflow.steps.ImageSaver
+weka.knowledgeflow.steps.ImageSaver$ImageFormat
+weka.knowledgeflow.steps.ImageSaver$ImageSaverDefaults

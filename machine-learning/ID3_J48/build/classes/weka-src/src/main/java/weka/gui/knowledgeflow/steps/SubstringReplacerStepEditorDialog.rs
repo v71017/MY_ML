@@ -1,0 +1,11 @@
+weka.gui.knowledgeflow.steps.SubstringReplacerStepEditorDialog
+weka.gui.knowledgeflow.steps.SubstringReplacerStepEditorDialog$1
+weka.gui.knowledgeflow.steps.SubstringReplacerStepEditorDialog$5
+weka.gui.knowledgeflow.steps.SubstringReplacerStepEditorDialog$10
+weka.gui.knowledgeflow.steps.SubstringReplacerStepEditorDialog$4
+weka.gui.knowledgeflow.steps.SubstringReplacerStepEditorDialog$3
+weka.gui.knowledgeflow.steps.SubstringReplacerStepEditorDialog$2
+weka.gui.knowledgeflow.steps.SubstringReplacerStepEditorDialog$9
+weka.gui.knowledgeflow.steps.SubstringReplacerStepEditorDialog$8
+weka.gui.knowledgeflow.steps.SubstringReplacerStepEditorDialog$7
+weka.gui.knowledgeflow.steps.SubstringReplacerStepEditorDialog$6

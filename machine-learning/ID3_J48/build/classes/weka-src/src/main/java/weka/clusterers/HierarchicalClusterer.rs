@@ -1,0 +1,4 @@
+weka.clusterers.HierarchicalClusterer$TupleComparator
+weka.clusterers.HierarchicalClusterer
+weka.clusterers.HierarchicalClusterer$Tuple
+weka.clusterers.HierarchicalClusterer$Node

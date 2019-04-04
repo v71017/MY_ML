@@ -1,0 +1,7 @@
+CRITICAL : BIGIP GTM SERVER NOT AVAIL
+*Device* : gtm-svc-las_eth0.dcnet.intuit.net
+*Device Type* : C109 : f5 : 11.5.3
+*Location* : LAS-1 : Segment_Control
+Description
+----------------
+A "bigipGtmServerNotAvail" event has occurred, from GnSNMPDev device, named gtm-svc-las_eth0.dcnet.intuit.net.  A server is becoming unavailable in global traffic management module."  bigipNotifyObjMsg = SNMP_TRAP: Server /Common/las-f01-avi-prd.dcnet.intuit.net (ip=10.162.1.138) state change green --> red (No enabled VS available)

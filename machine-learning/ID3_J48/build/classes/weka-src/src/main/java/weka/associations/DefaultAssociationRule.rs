@@ -1,0 +1,6 @@
+weka.associations.DefaultAssociationRule$METRIC_TYPE$1
+weka.associations.DefaultAssociationRule$METRIC_TYPE$2
+weka.associations.DefaultAssociationRule$METRIC_TYPE$3
+weka.associations.DefaultAssociationRule$METRIC_TYPE$4
+weka.associations.DefaultAssociationRule$METRIC_TYPE
+weka.associations.DefaultAssociationRule

@@ -1,0 +1,4 @@
+weka.gui.beans.ModelPerformanceChartCustomizer
+weka.gui.beans.ModelPerformanceChartCustomizer$1
+weka.gui.beans.ModelPerformanceChartCustomizer$2
+weka.gui.beans.ModelPerformanceChartCustomizer$3

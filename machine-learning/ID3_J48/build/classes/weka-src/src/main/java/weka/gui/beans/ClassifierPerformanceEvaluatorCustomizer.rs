@@ -1,0 +1,4 @@
+weka.gui.beans.ClassifierPerformanceEvaluatorCustomizer$1
+weka.gui.beans.ClassifierPerformanceEvaluatorCustomizer$2
+weka.gui.beans.ClassifierPerformanceEvaluatorCustomizer$3
+weka.gui.beans.ClassifierPerformanceEvaluatorCustomizer

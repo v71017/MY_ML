@@ -1,0 +1,10 @@
+weka.gui.beans.LoaderCustomizer$2
+weka.gui.beans.LoaderCustomizer$3
+weka.gui.beans.LoaderCustomizer
+weka.gui.beans.LoaderCustomizer$4
+weka.gui.beans.LoaderCustomizer$5
+weka.gui.beans.LoaderCustomizer$6
+weka.gui.beans.LoaderCustomizer$7
+weka.gui.beans.LoaderCustomizer$8
+weka.gui.beans.LoaderCustomizer$9
+weka.gui.beans.LoaderCustomizer$1

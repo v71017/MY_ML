@@ -1,0 +1,11 @@
+weka.classifiers.functions.MultilayerPerceptron$ControlPanel$3
+weka.classifiers.functions.MultilayerPerceptron$1
+weka.classifiers.functions.MultilayerPerceptron$ControlPanel$2
+weka.classifiers.functions.MultilayerPerceptron$ControlPanel$1
+weka.classifiers.functions.MultilayerPerceptron$ControlPanel
+weka.classifiers.functions.MultilayerPerceptron$NeuralEnd
+weka.classifiers.functions.MultilayerPerceptron$ControlPanel$5
+weka.classifiers.functions.MultilayerPerceptron$ControlPanel$4
+weka.classifiers.functions.MultilayerPerceptron$NodePanel$1
+weka.classifiers.functions.MultilayerPerceptron$NodePanel
+weka.classifiers.functions.MultilayerPerceptron

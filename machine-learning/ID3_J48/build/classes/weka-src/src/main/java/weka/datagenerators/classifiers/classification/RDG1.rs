@@ -1,0 +1,2 @@
+weka.datagenerators.classifiers.classification.RDG1
+weka.datagenerators.classifiers.classification.RDG1$RuleList

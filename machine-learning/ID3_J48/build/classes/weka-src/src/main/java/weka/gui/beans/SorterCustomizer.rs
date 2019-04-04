@@ -1,0 +1,11 @@
+weka.gui.beans.SorterCustomizer
+weka.gui.beans.SorterCustomizer$1
+weka.gui.beans.SorterCustomizer$10
+weka.gui.beans.SorterCustomizer$6
+weka.gui.beans.SorterCustomizer$7
+weka.gui.beans.SorterCustomizer$8
+weka.gui.beans.SorterCustomizer$9
+weka.gui.beans.SorterCustomizer$2
+weka.gui.beans.SorterCustomizer$3
+weka.gui.beans.SorterCustomizer$4
+weka.gui.beans.SorterCustomizer$5

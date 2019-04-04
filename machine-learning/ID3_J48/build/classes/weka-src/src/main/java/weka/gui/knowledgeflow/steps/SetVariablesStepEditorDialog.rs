@@ -1,0 +1,2 @@
+weka.gui.knowledgeflow.steps.SetVariablesStepEditorDialog$VariablesPanel
+weka.gui.knowledgeflow.steps.SetVariablesStepEditorDialog

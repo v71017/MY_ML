@@ -1,0 +1,3 @@
+weka.gui.knowledgeflow.KnowledgeFlowApp$1
+weka.gui.knowledgeflow.KnowledgeFlowApp$KnowledgeFlowGeneralDefaults
+weka.gui.knowledgeflow.KnowledgeFlowApp

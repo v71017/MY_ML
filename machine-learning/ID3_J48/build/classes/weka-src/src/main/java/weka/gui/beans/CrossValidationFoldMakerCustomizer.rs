@@ -1,0 +1,3 @@
+weka.gui.beans.CrossValidationFoldMakerCustomizer
+weka.gui.beans.CrossValidationFoldMakerCustomizer$1
+weka.gui.beans.CrossValidationFoldMakerCustomizer$2

@@ -1,0 +1,5 @@
+weka.classifiers.meta.MultiClassClassifier
+weka.classifiers.meta.MultiClassClassifier$Code
+weka.classifiers.meta.MultiClassClassifier$ExhaustiveCode
+weka.classifiers.meta.MultiClassClassifier$StandardCode
+weka.classifiers.meta.MultiClassClassifier$RandomCode

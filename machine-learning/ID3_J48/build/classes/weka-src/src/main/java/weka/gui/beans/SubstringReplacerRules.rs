@@ -1,0 +1,2 @@
+weka.gui.beans.SubstringReplacerRules
+weka.gui.beans.SubstringReplacerRules$SubstringReplacerMatchRule

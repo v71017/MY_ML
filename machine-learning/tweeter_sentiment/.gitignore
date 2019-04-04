@@ -1,0 +1,12 @@
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+tweet-analyzer.iml
+src/main/resources/twitter_test_data_big_.csv.zip
+src/main/resources/rt-polarity*

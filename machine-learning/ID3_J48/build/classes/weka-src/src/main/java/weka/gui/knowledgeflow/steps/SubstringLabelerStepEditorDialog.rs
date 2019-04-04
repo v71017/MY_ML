@@ -1,0 +1,11 @@
+weka.gui.knowledgeflow.steps.SubstringLabelerStepEditorDialog$2
+weka.gui.knowledgeflow.steps.SubstringLabelerStepEditorDialog
+weka.gui.knowledgeflow.steps.SubstringLabelerStepEditorDialog$1
+weka.gui.knowledgeflow.steps.SubstringLabelerStepEditorDialog$10
+weka.gui.knowledgeflow.steps.SubstringLabelerStepEditorDialog$4
+weka.gui.knowledgeflow.steps.SubstringLabelerStepEditorDialog$3
+weka.gui.knowledgeflow.steps.SubstringLabelerStepEditorDialog$9
+weka.gui.knowledgeflow.steps.SubstringLabelerStepEditorDialog$6
+weka.gui.knowledgeflow.steps.SubstringLabelerStepEditorDialog$5
+weka.gui.knowledgeflow.steps.SubstringLabelerStepEditorDialog$8
+weka.gui.knowledgeflow.steps.SubstringLabelerStepEditorDialog$7

@@ -1,0 +1,13 @@
+weka.gui.beans.JoinCustomizer
+weka.gui.beans.JoinCustomizer$2
+weka.gui.beans.JoinCustomizer$1
+weka.gui.beans.JoinCustomizer$6
+weka.gui.beans.JoinCustomizer$5
+weka.gui.beans.JoinCustomizer$4
+weka.gui.beans.JoinCustomizer$3
+weka.gui.beans.JoinCustomizer$9
+weka.gui.beans.JoinCustomizer$8
+weka.gui.beans.JoinCustomizer$7
+weka.gui.beans.JoinCustomizer$12
+weka.gui.beans.JoinCustomizer$11
+weka.gui.beans.JoinCustomizer$10

@@ -1,0 +1,144 @@
+Dataset 1
+
+LinearRegression
+=== Summary ===
+
+Correlation coefficient                  0.8331
+Mean absolute error                    252.8138
+Root mean squared error                349.2366
+Relative absolute error                 47.0822 %
+Root relative squared error             55.0876 %
+Total Number of Instances               95     
+
+Linear Regression Model
+
+price =
+
+     99.5699 * processor=Atom,Pentium,i33rd,AMDESeries,i73rd,i54th,i34th,Core2Quad,i52nd,Core2Duo,i53rd,i74th,i51st +
+    -90.0082 * processor=i33rd,AMDESeries,i73rd,i54th,i34th,Core2Quad,i52nd,Core2Duo,i53rd,i74th,i51st +
+   -507.055  * processor=i73rd,i54th,i34th,Core2Quad,i52nd,Core2Duo,i53rd,i74th,i51st +
+    740.8766 * processor=i54th,i34th,Core2Quad,i52nd,Core2Duo,i53rd,i74th,i51st +
+     92.711  * processor=Core2Quad,i52nd,Core2Duo,i53rd,i74th,i51st +
+    489.5386 * processor=i53rd,i74th,i51st +
+   -230.8062 * processor=i74th,i51st +
+    810.3334 * processor=i51st +
+     43.389  * memory +
+    369.1416 * grapics=DedicatedGraphics +
+    204.9341 * operatinS=Windows7,Windows8,WindowsXP +
+   -123.9727 * operatinS=Windows8,WindowsXP +
+    596.1378 * operatinS=WindowsXP +
+    230.2436 * ssd=Yes +
+    166.0519
+	
+	
+kNearestNeighbours with "-I"
+=== Summary ===
+
+Correlation coefficient                  0.7525
+Mean absolute error                    327.6222
+Root mean squared error                417.8561
+Relative absolute error                 61.014  %
+Root relative squared error             65.9114 %
+Total Number of Instances               95     	
+
+kNearestNeighbours with "-F"
+=== Summary ===
+
+Correlation coefficient                   0.81  
+Mean absolute error                    417.4861
+Root mean squared error                511.0738
+Relative absolute error                 77.7496 %
+Root relative squared error             80.6153 %
+Total Number of Instances               95     
+
+repTree
+=== Summary ===
+
+Correlation coefficient                  0.793 
+Mean absolute error                    273.6769
+Root mean squared error                386.5317
+Relative absolute error                 50.9676 %
+Root relative squared error             60.9704 %
+Total Number of Instances               95     
+
+M5P
+=== Summary ===
+
+Correlation coefficient                  0.824 
+Mean absolute error                    259.9776
+Root mean squared error                357.9079
+Relative absolute error                 48.4163 %
+Root relative squared error             56.4554 %
+Total Number of Instances               95
+
+
+
+Dataset 2
+ 
+LinearRegression
+=== Summary ===
+
+Correlation coefficient                  0.6944
+Mean absolute error                    402.5555
+Root mean squared error                571.1403
+Relative absolute error                 70.0526 %
+Root relative squared error             72.0789 %
+Total Number of Instances               88     
+
+
+Linear Regression Model
+
+price =
+
+     83.5915 * processor=Pentium,i3,AMDESeries,i5,Core2Quad,Core2Duo,i7 +
+   -131.8457 * processor=i3,AMDESeries,i5,Core2Quad,Core2Duo,i7 +
+    100.2018 * processor=AMDESeries,i5,Core2Quad,Core2Duo,i7 +
+    197.5337 * processor=i5,Core2Quad,Core2Duo,i7 +
+    333.8551 * processor=i7 +
+     44.2646 * memory +
+    347.3865 * grapics=DedicatedGraphics +
+    244.032  * operatinS=Windows7,Windows8,WindowsXP +
+   -159.6417 * operatinS=Windows8,WindowsXP +
+    579.3185 * operatinS=WindowsXP +
+    213.1976 * ssd=Yes +
+    183.657 
+kNearestNeighbours with "-I"
+
+=== Summary ===
+
+Correlation coefficient                  0.5306
+Mean absolute error                    410.8169
+Root mean squared error                668.1184
+Relative absolute error                 71.4903 %
+Root relative squared error             84.3177 %
+Total Number of Instances               88     
+
+kNearestNeighbours with "-F"
+=== Summary ===
+
+Correlation coefficient                  0.7407
+Mean absolute error                    462.0484
+Root mean squared error                683.8382
+Relative absolute error                 80.4056 %
+Root relative squared error             86.3016 %
+Total Number of Instances               88     
+
+repTree
+=== Summary ===
+
+Correlation coefficient                  0.7023
+Mean absolute error                    371.6005
+Root mean squared error                565.2638
+Relative absolute error                 64.6659 %
+Root relative squared error             71.3373 %
+Total Number of Instances               88     
+
+M5P
+=== Summary ===
+
+Correlation coefficient                  0.7297
+Mean absolute error                    370.2553
+Root mean squared error                541.8827
+Relative absolute error                 64.4318 %
+Root relative squared error             68.3865 %
+Total Number of Instances               88     

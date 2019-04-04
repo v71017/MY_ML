@@ -1,0 +1,3 @@
+weka.gui.beans.ClassifierPerformanceEvaluator
+weka.gui.beans.ClassifierPerformanceEvaluator$EvaluationTask
+weka.gui.beans.ClassifierPerformanceEvaluator$AggregateableClassifierErrorsPlotInstances

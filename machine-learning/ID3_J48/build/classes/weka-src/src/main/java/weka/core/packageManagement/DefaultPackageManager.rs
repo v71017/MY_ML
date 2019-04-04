@@ -1,0 +1,2 @@
+weka.core.packageManagement.DefaultPackageManager
+weka.core.packageManagement.DefaultPackageManager$DefaultPMDefaults

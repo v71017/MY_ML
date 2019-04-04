@@ -1,0 +1,15 @@
+    Current Approach : Similarity of two documents on the basis of cosine similarity using TF-IDF.
+
+Future scope of implementation will be based :
+1. Semantics : The level of semantics is meaning of the word (like study - learn)
+2. Context Semantics:
+      a. The topic of the poem.
+      b. Entity relations -  Inference 
+      c. Themes 
+      d. Poem attributes
+
+
+How to run : 3 arguments required.
+
+
+java -jar <jarfilepath> <Dataset dir path> <Single file path> <NumberOfDoc(n)>

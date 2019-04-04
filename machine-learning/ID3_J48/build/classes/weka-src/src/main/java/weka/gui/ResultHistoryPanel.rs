@@ -1,0 +1,9 @@
+weka.gui.ResultHistoryPanel$1
+weka.gui.ResultHistoryPanel
+weka.gui.ResultHistoryPanel$RMouseAdapter
+weka.gui.ResultHistoryPanel$6
+weka.gui.ResultHistoryPanel$5
+weka.gui.ResultHistoryPanel$RKeyAdapter
+weka.gui.ResultHistoryPanel$4
+weka.gui.ResultHistoryPanel$3
+weka.gui.ResultHistoryPanel$2

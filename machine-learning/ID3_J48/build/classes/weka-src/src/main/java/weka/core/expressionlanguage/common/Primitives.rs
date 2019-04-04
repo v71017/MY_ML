@@ -1,0 +1,10 @@
+weka.core.expressionlanguage.common.Primitives$StringExpression
+weka.core.expressionlanguage.common.Primitives$BooleanConstant
+weka.core.expressionlanguage.common.Primitives$BooleanExpression
+weka.core.expressionlanguage.common.Primitives
+weka.core.expressionlanguage.common.Primitives$DoubleConstant
+weka.core.expressionlanguage.common.Primitives$StringConstant
+weka.core.expressionlanguage.common.Primitives$DoubleVariable
+weka.core.expressionlanguage.common.Primitives$BooleanVariable
+weka.core.expressionlanguage.common.Primitives$StringVariable
+weka.core.expressionlanguage.common.Primitives$DoubleExpression

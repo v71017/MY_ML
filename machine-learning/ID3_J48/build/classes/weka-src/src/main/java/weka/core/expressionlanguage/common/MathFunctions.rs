@@ -1,0 +1,15 @@
+weka.core.expressionlanguage.common.MathFunctions$ExpFunction
+weka.core.expressionlanguage.common.MathFunctions$AbsFunction
+weka.core.expressionlanguage.common.MathFunctions$CeilFunction
+weka.core.expressionlanguage.common.MathFunctions$PowFunction
+weka.core.expressionlanguage.common.MathFunctions$CosFunction
+weka.core.expressionlanguage.common.MathFunctions$SqrtFunction
+weka.core.expressionlanguage.common.MathFunctions$RintFunction
+weka.core.expressionlanguage.common.MathFunctions$SinFunction
+weka.core.expressionlanguage.common.MathFunctions$DoubleUnaryMacro
+weka.core.expressionlanguage.common.MathFunctions$FloorFunction
+weka.core.expressionlanguage.common.MathFunctions$DoubleUnaryFunction
+weka.core.expressionlanguage.common.MathFunctions
+weka.core.expressionlanguage.common.MathFunctions$PowMacro
+weka.core.expressionlanguage.common.MathFunctions$LogFunction
+weka.core.expressionlanguage.common.MathFunctions$TanFunction

@@ -1,0 +1,14 @@
+weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$9
+weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$5
+weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$6
+weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$ArffViewerPanel
+weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$7
+weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$8
+weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$1
+weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$2
+weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$3
+weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$4
+weka.gui.knowledgeflow.steps.DataGridStepEditorDialog
+weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$ArffViewerPanel$2
+weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$AttDef
+weka.gui.knowledgeflow.steps.DataGridStepEditorDialog$ArffViewerPanel$1

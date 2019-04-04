@@ -1,0 +1,11 @@
+weka.gui.filters.AddUserFieldsCustomizer$3
+weka.gui.filters.AddUserFieldsCustomizer$2
+weka.gui.filters.AddUserFieldsCustomizer$1
+weka.gui.filters.AddUserFieldsCustomizer$7
+weka.gui.filters.AddUserFieldsCustomizer$6
+weka.gui.filters.AddUserFieldsCustomizer$5
+weka.gui.filters.AddUserFieldsCustomizer$4
+weka.gui.filters.AddUserFieldsCustomizer$9
+weka.gui.filters.AddUserFieldsCustomizer$8
+weka.gui.filters.AddUserFieldsCustomizer
+weka.gui.filters.AddUserFieldsCustomizer$10

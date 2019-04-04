@@ -1,0 +1,4 @@
+weka.gui.knowledgeflow.steps.BoundaryPlotterInteractiveView$2
+weka.gui.knowledgeflow.steps.BoundaryPlotterInteractiveView$1
+weka.gui.knowledgeflow.steps.BoundaryPlotterInteractiveView$3
+weka.gui.knowledgeflow.steps.BoundaryPlotterInteractiveView

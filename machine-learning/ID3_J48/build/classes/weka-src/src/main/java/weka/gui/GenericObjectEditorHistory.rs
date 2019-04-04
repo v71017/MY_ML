@@ -1,0 +1,5 @@
+weka.gui.GenericObjectEditorHistory$HistorySelectionListener
+weka.gui.GenericObjectEditorHistory
+weka.gui.GenericObjectEditorHistory$HistorySelectionEvent
+weka.gui.GenericObjectEditorHistory$1
+weka.gui.GenericObjectEditorHistory$2

@@ -1,0 +1,78 @@
+"C:\Program Files (x86)\Java\jdk1.6.0_24\bin\java" -Didea.launcher.port=7536 "-Didea.launcher.bin.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2016.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files (x86)\Java\jdk1.6.0_24\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.6.0_24\jre\lib\deploy.jar;C:\Program Files (x86)\Java\jdk1.6.0_24\jre\lib\ext\dnsns.jar;C:\Program Files (x86)\Java\jdk1.6.0_24\jre\lib\ext\localedata.jar;C:\Program Files (x86)\Java\jdk1.6.0_24\jre\lib\ext\sunjce_provider.jar;C:\Program Files (x86)\Java\jdk1.6.0_24\jre\lib\ext\sunmscapi.jar;C:\Program Files (x86)\Java\jdk1.6.0_24\jre\lib\ext\sunpkcs11.jar;C:\Program Files (x86)\Java\jdk1.6.0_24\jre\lib\javaws.jar;C:\Program Files (x86)\Java\jdk1.6.0_24\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.6.0_24\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.6.0_24\jre\lib\management-agent.jar;C:\Program Files (x86)\Java\jdk1.6.0_24\jre\lib\plugin.jar;C:\Program Files (x86)\Java\jdk1.6.0_24\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.6.0_24\jre\lib\rt.jar;C:\Users\IBM_ADMIN\IdeaProjects\nlp\build\classes\main;C:\Users\IBM_ADMIN\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\1.3.1\b90b6ac57cf27a2858eaa490d02ba7945d18ca7b\commons-io-1.3.1.jar;C:\Users\IBM_ADMIN\.gradle\caches\modules-2\files-2.1\nz.ac.waikato.cms.weka\weka-stable\3.6.6\eb67b46f093895bbb60837094e4b1995f466193c\weka-stable-3.6.6.jar;C:\Users\IBM_ADMIN\.gradle\caches\modules-2\files-2.1\net.sf.squirrel-sql.thirdparty-non-maven\java-cup\0.11a\1de46cc85d147d9f91af59d4a0107091c8b112d6\java-cup-0.11a.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2016.2\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain training.TrainTestClassifier
+Wait ..  Converting directory into Data set
+Done ..  Created data set directory.
+Wait ..  loading dataset
+Done ..  loaded dataset
+Wait ..  converting data set to word vectors.
+Done ..  word vector file like arff file of weka created.
+Wait ..  processing attribute selection
+Done ..  Selected attributes and created training data set.
+Wait ..  Building classifier
+
+
+Classifier model:
+
+J48 pruned tree
+------------------
+
+Yes <= 0: No (457.0)
+Yes > 0
+|   No <= 0: Yes (2573.0)
+|   No > 0
+|   |   pedal <= 0
+|   |   |   started <= 0
+|   |   |   |   with <= 0
+|   |   |   |   |   before <= 0: Yes (9.0/1.0)
+|   |   |   |   |   before > 0: No (3.0)
+|   |   |   |   with > 0: Yes (206.0/7.0)
+|   |   |   started > 0
+|   |   |   |   gotten <= 0
+|   |   |   |   |   95 <= 0
+|   |   |   |   |   |   stop <= 0: Yes (25.0)
+|   |   |   |   |   |   stop > 0: No (5.0/1.0)
+|   |   |   |   |   95 > 0: No (2.0)
+|   |   |   |   gotten > 0: No (3.0)
+|   |   pedal > 0
+|   |   |   along <= 0
+|   |   |   |   20 <= 0: Yes (14.0/1.0)
+|   |   |   |   20 > 0: No (2.0)
+|   |   |   along > 0: No (3.0)
+
+Number of Leaves  : 	12
+
+Size of the tree : 	23
+
+Done ..  Trained classifier
+Wait .. Evaluating trained classifier.
+
+Correctly Classified Instances        3259               98.6978 %
+Incorrectly Classified Instances        43                1.3022 %
+Kappa statistic                          0.9476
+Mean absolute error                      0.014
+Root mean squared error                  0.11
+Relative absolute error                  5.6162 %
+Root relative squared error             31.1169 %
+Total Number of Instances             3302
+
+Done ..  Evaluation
+Wait .. Loading test data set.
+Done .. Loaded test data set.
+Wait .. Converting test data set to word vector.
+Done .. Converted test data set to word vector.
+Wait .. Evaluating testing data on trained classifier.
+
+Results
+======
+
+Correctly Classified Instances        6564               22.3114 %
+Incorrectly Classified Instances     22856               77.6886 %
+Kappa statistic                          0.0003
+Mean absolute error                      0.7766
+Root mean squared error                  0.8806
+Relative absolute error                313.862  %
+Root relative squared error            251.7026 %
+Total Number of Instances            29420
+
+Exit .. All processing done.
+
+Process finished with exit code 0

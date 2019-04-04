@@ -1,0 +1,1055 @@
+***DATASET 1***
+Id3
+
+
+petalwidth = '(-inf-0.8]': Iris-setosa
+petalwidth = '(0.8-1.75]'
+|  petallength = '(-inf-2.45]': null
+|  petallength = '(2.45-4.75]'
+|  |  sepallength = '(-inf-5.55]'
+|  |  |  sepalwidth = '(-inf-2.95]': Iris-versicolor
+|  |  |  sepalwidth = '(2.95-3.35]': Iris-versicolor
+|  |  |  sepalwidth = '(3.35-inf)': null
+|  |  sepallength = '(5.55-6.15]': Iris-versicolor
+|  |  sepallength = '(6.15-inf)': Iris-versicolor
+|  petallength = '(4.75-inf)'
+|  |  sepallength = '(-inf-5.55]': null
+|  |  sepallength = '(5.55-6.15]': Iris-virginica
+|  |  sepallength = '(6.15-inf)': Iris-versicolor
+petalwidth = '(1.75-inf)'
+|  sepallength = '(-inf-5.55]': null
+|  sepallength = '(5.55-6.15]'
+|  |  sepalwidth = '(-inf-2.95]': Iris-virginica
+|  |  sepalwidth = '(2.95-3.35]': Iris-virginica
+|  |  sepalwidth = '(3.35-inf)': null
+|  sepallength = '(6.15-inf)': Iris-virginica
+Validation 1
+
+Correctly Classified Instances          15              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances               15     
+
+Id3
+
+
+petalwidth = '(-inf-0.8]': Iris-setosa
+petalwidth = '(0.8-1.75]'
+|  petallength = '(-inf-2.45]': null
+|  petallength = '(2.45-4.75]'
+|  |  sepallength = '(-inf-5.55]'
+|  |  |  sepalwidth = '(-inf-2.95]': Iris-versicolor
+|  |  |  sepalwidth = '(2.95-3.35]': Iris-versicolor
+|  |  |  sepalwidth = '(3.35-inf)': null
+|  |  sepallength = '(5.55-6.15]': Iris-versicolor
+|  |  sepallength = '(6.15-inf)': Iris-versicolor
+|  petallength = '(4.75-inf)'
+|  |  sepallength = '(-inf-5.55]': null
+|  |  sepallength = '(5.55-6.15]': Iris-virginica
+|  |  sepallength = '(6.15-inf)': Iris-versicolor
+petalwidth = '(1.75-inf)'
+|  sepallength = '(-inf-5.55]': null
+|  sepallength = '(5.55-6.15]'
+|  |  sepalwidth = '(-inf-2.95]': Iris-virginica
+|  |  sepalwidth = '(2.95-3.35]': Iris-virginica
+|  |  sepalwidth = '(3.35-inf)': null
+|  sepallength = '(6.15-inf)': Iris-virginica
+Validation 2
+
+Correctly Classified Instances          15              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances               15     
+
+Id3
+
+
+petalwidth = '(-inf-0.8]': Iris-setosa
+petalwidth = '(0.8-1.75]'
+|  petallength = '(-inf-2.45]': null
+|  petallength = '(2.45-4.75]'
+|  |  sepallength = '(-inf-5.55]'
+|  |  |  sepalwidth = '(-inf-2.95]': Iris-versicolor
+|  |  |  sepalwidth = '(2.95-3.35]': Iris-versicolor
+|  |  |  sepalwidth = '(3.35-inf)': null
+|  |  sepallength = '(5.55-6.15]': Iris-versicolor
+|  |  sepallength = '(6.15-inf)': Iris-versicolor
+|  petallength = '(4.75-inf)'
+|  |  sepallength = '(-inf-5.55]': null
+|  |  sepallength = '(5.55-6.15]': Iris-virginica
+|  |  sepallength = '(6.15-inf)': Iris-versicolor
+petalwidth = '(1.75-inf)'
+|  sepallength = '(-inf-5.55]': null
+|  sepallength = '(5.55-6.15]'
+|  |  sepalwidth = '(-inf-2.95]': Iris-virginica
+|  |  sepalwidth = '(2.95-3.35]': Iris-virginica
+|  |  sepalwidth = '(3.35-inf)': null
+|  sepallength = '(6.15-inf)': Iris-virginica
+Validation 3
+
+Correctly Classified Instances          15              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances               15     
+
+Id3
+
+
+petalwidth = '(-inf-0.8]': Iris-setosa
+petalwidth = '(0.8-1.75]'
+|  petallength = '(-inf-2.45]': null
+|  petallength = '(2.45-4.75]'
+|  |  sepallength = '(-inf-5.55]'
+|  |  |  sepalwidth = '(-inf-2.95]': Iris-versicolor
+|  |  |  sepalwidth = '(2.95-3.35]': Iris-versicolor
+|  |  |  sepalwidth = '(3.35-inf)': null
+|  |  sepallength = '(5.55-6.15]': Iris-versicolor
+|  |  sepallength = '(6.15-inf)': Iris-versicolor
+|  petallength = '(4.75-inf)'
+|  |  sepallength = '(-inf-5.55]': null
+|  |  sepallength = '(5.55-6.15]': Iris-virginica
+|  |  sepallength = '(6.15-inf)'
+|  |  |  sepalwidth = '(-inf-2.95]': Iris-versicolor
+|  |  |  sepalwidth = '(2.95-3.35]': Iris-versicolor
+|  |  |  sepalwidth = '(3.35-inf)': null
+petalwidth = '(1.75-inf)'
+|  sepallength = '(-inf-5.55]': null
+|  sepallength = '(5.55-6.15]'
+|  |  sepalwidth = '(-inf-2.95]': Iris-virginica
+|  |  sepalwidth = '(2.95-3.35]': Iris-virginica
+|  |  sepalwidth = '(3.35-inf)': null
+|  sepallength = '(6.15-inf)': Iris-virginica
+Validation 4
+
+Correctly Classified Instances          15              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.0389
+Root mean squared error                  0.1149
+Relative absolute error                  8.4441 %
+Root relative squared error             23.4863 %
+Total Number of Instances               15     
+
+Id3
+
+
+petalwidth = '(-inf-0.8]': Iris-setosa
+petalwidth = '(0.8-1.75]'
+|  petallength = '(-inf-2.45]': null
+|  petallength = '(2.45-4.75]'
+|  |  sepallength = '(-inf-5.55]'
+|  |  |  sepalwidth = '(-inf-2.95]': Iris-versicolor
+|  |  |  sepalwidth = '(2.95-3.35]': Iris-versicolor
+|  |  |  sepalwidth = '(3.35-inf)': null
+|  |  sepallength = '(5.55-6.15]': Iris-versicolor
+|  |  sepallength = '(6.15-inf)': Iris-versicolor
+|  petallength = '(4.75-inf)'
+|  |  sepallength = '(-inf-5.55]': null
+|  |  sepallength = '(5.55-6.15]': Iris-virginica
+|  |  sepallength = '(6.15-inf)'
+|  |  |  sepalwidth = '(-inf-2.95]': Iris-versicolor
+|  |  |  sepalwidth = '(2.95-3.35]': Iris-versicolor
+|  |  |  sepalwidth = '(3.35-inf)': null
+petalwidth = '(1.75-inf)': Iris-virginica
+Validation 5
+
+Correctly Classified Instances          14               93.3333 %
+Incorrectly Classified Instances         1                6.6667 %
+Kappa statistic                          0     
+Mean absolute error                      0.0711
+Root mean squared error                  0.2366
+Relative absolute error                 14.4314 %
+Root relative squared error             45.2781 %
+Total Number of Instances               15     
+
+Id3
+
+
+petallength = '(-inf-2.45]': Iris-setosa
+petallength = '(2.45-4.75]'
+|  sepallength = '(-inf-5.55]': Iris-versicolor
+|  sepallength = '(5.55-6.15]': Iris-versicolor
+|  sepallength = '(6.15-inf)': Iris-versicolor
+petallength = '(4.75-inf)'
+|  petalwidth = '(-inf-0.8]': null
+|  petalwidth = '(0.8-1.75]'
+|  |  sepallength = '(-inf-5.55]': null
+|  |  sepallength = '(5.55-6.15]': Iris-virginica
+|  |  sepallength = '(6.15-inf)': Iris-versicolor
+|  petalwidth = '(1.75-inf)'
+|  |  sepallength = '(-inf-5.55]': null
+|  |  sepallength = '(5.55-6.15]'
+|  |  |  sepalwidth = '(-inf-2.95]': Iris-virginica
+|  |  |  sepalwidth = '(2.95-3.35]': Iris-virginica
+|  |  |  sepalwidth = '(3.35-inf)': null
+|  |  sepallength = '(6.15-inf)': Iris-virginica
+Validation 6
+
+Correctly Classified Instances          14               93.3333 %
+Incorrectly Classified Instances         1                6.6667 %
+Kappa statistic                          0     
+Mean absolute error                      0.1111
+Root mean squared error                  0.2635
+Relative absolute error                 22.549  %
+Root relative squared error             50.4211 %
+Total Number of Instances               15     
+
+Id3
+
+
+petalwidth = '(-inf-0.8]': Iris-setosa
+petalwidth = '(0.8-1.75]'
+|  petallength = '(-inf-2.45]': null
+|  petallength = '(2.45-4.75]'
+|  |  sepallength = '(-inf-5.55]'
+|  |  |  sepalwidth = '(-inf-2.95]': Iris-versicolor
+|  |  |  sepalwidth = '(2.95-3.35]': Iris-versicolor
+|  |  |  sepalwidth = '(3.35-inf)': null
+|  |  sepallength = '(5.55-6.15]': Iris-versicolor
+|  |  sepallength = '(6.15-inf)': Iris-versicolor
+|  petallength = '(4.75-inf)'
+|  |  sepallength = '(-inf-5.55]': null
+|  |  sepallength = '(5.55-6.15]': Iris-virginica
+|  |  sepallength = '(6.15-inf)': Iris-versicolor
+petalwidth = '(1.75-inf)'
+|  sepallength = '(-inf-5.55]': null
+|  sepallength = '(5.55-6.15]'
+|  |  sepalwidth = '(-inf-2.95]': Iris-virginica
+|  |  sepalwidth = '(2.95-3.35]': Iris-virginica
+|  |  sepalwidth = '(3.35-inf)': null
+|  sepallength = '(6.15-inf)': Iris-virginica
+Validation 7
+
+Correctly Classified Instances          15              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.0167
+Root mean squared error                  0.0456
+Relative absolute error                  3.6189 %
+Root relative squared error              9.3325 %
+Total Number of Instances               15     
+
+Id3
+
+
+petalwidth = '(-inf-0.8]': Iris-setosa
+petalwidth = '(0.8-1.75]'
+|  petallength = '(-inf-2.45]': null
+|  petallength = '(2.45-4.75]': Iris-versicolor
+|  petallength = '(4.75-inf)'
+|  |  sepallength = '(-inf-5.55]': null
+|  |  sepallength = '(5.55-6.15]': Iris-versicolor
+|  |  sepallength = '(6.15-inf)': Iris-versicolor
+petalwidth = '(1.75-inf)'
+|  sepallength = '(-inf-5.55]': null
+|  sepallength = '(5.55-6.15]'
+|  |  sepalwidth = '(-inf-2.95]': Iris-virginica
+|  |  sepalwidth = '(2.95-3.35]': Iris-virginica
+|  |  sepalwidth = '(3.35-inf)': null
+|  sepallength = '(6.15-inf)': Iris-virginica
+Validation 8
+
+Correctly Classified Instances          13               86.6667 %
+Incorrectly Classified Instances         2               13.3333 %
+Kappa statistic                          0     
+Mean absolute error                      0.0667
+Root mean squared error                  0.2357
+Relative absolute error                 13.5294 %
+Root relative squared error             45.098  %
+Total Number of Instances               15     
+
+Id3
+
+
+petalwidth = '(-inf-0.8]': Iris-setosa
+petalwidth = '(0.8-1.75]'
+|  petallength = '(-inf-2.45]': null
+|  petallength = '(2.45-4.75]'
+|  |  sepallength = '(-inf-5.55]'
+|  |  |  sepalwidth = '(-inf-2.95]': Iris-versicolor
+|  |  |  sepalwidth = '(2.95-3.35]': Iris-versicolor
+|  |  |  sepalwidth = '(3.35-inf)': null
+|  |  sepallength = '(5.55-6.15]': Iris-versicolor
+|  |  sepallength = '(6.15-inf)': Iris-versicolor
+|  petallength = '(4.75-inf)'
+|  |  sepallength = '(-inf-5.55]': null
+|  |  sepallength = '(5.55-6.15]': Iris-versicolor
+|  |  sepallength = '(6.15-inf)': Iris-versicolor
+petalwidth = '(1.75-inf)'
+|  sepallength = '(-inf-5.55]': null
+|  sepallength = '(5.55-6.15]'
+|  |  sepalwidth = '(-inf-2.95]': Iris-virginica
+|  |  sepalwidth = '(2.95-3.35]': Iris-virginica
+|  |  sepalwidth = '(3.35-inf)': null
+|  sepallength = '(6.15-inf)': Iris-virginica
+Validation 9
+
+Correctly Classified Instances          12               80      %
+Incorrectly Classified Instances         3               20      %
+Kappa statistic                          0     
+Mean absolute error                      0.1259
+Root mean squared error                  0.3239
+Relative absolute error                 25.5556 %
+Root relative squared error             61.9813 %
+Total Number of Instances               15     
+
+Id3
+
+
+petalwidth = '(-inf-0.8]': Iris-setosa
+petalwidth = '(0.8-1.75]'
+|  petallength = '(-inf-2.45]': null
+|  petallength = '(2.45-4.75]'
+|  |  sepallength = '(-inf-5.55]'
+|  |  |  sepalwidth = '(-inf-2.95]': Iris-versicolor
+|  |  |  sepalwidth = '(2.95-3.35]': Iris-versicolor
+|  |  |  sepalwidth = '(3.35-inf)': null
+|  |  sepallength = '(5.55-6.15]': Iris-versicolor
+|  |  sepallength = '(6.15-inf)': Iris-versicolor
+|  petallength = '(4.75-inf)'
+|  |  sepallength = '(-inf-5.55]': null
+|  |  sepallength = '(5.55-6.15]': Iris-virginica
+|  |  sepallength = '(6.15-inf)': Iris-versicolor
+petalwidth = '(1.75-inf)'
+|  sepallength = '(-inf-5.55]': null
+|  sepallength = '(5.55-6.15]'
+|  |  sepalwidth = '(-inf-2.95]': Iris-virginica
+|  |  sepalwidth = '(2.95-3.35]': Iris-versicolor
+|  |  sepalwidth = '(3.35-inf)': null
+|  sepallength = '(6.15-inf)': Iris-virginica
+Validation 10
+
+Correctly Classified Instances          13               86.6667 %
+Incorrectly Classified Instances         2               13.3333 %
+Kappa statistic                          0     
+Mean absolute error                      0.0444
+Root mean squared error                  0.1491
+Relative absolute error                  9.0196 %
+Root relative squared error             28.5225 %
+Total Number of Instances               15     
+
+Validation 1
+
+Correctly Classified Instances          15              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances               15     
+
+Validation 2
+
+Correctly Classified Instances          15              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances               15     
+
+Validation 3
+
+Correctly Classified Instances          15              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances               15     
+
+Validation 4
+
+Correctly Classified Instances          15              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.0093
+Root mean squared error                  0.0139
+Relative absolute error                  2.0105 %
+Root relative squared error              2.8398 %
+Total Number of Instances               15     
+
+Validation 5
+
+Correctly Classified Instances          14               93.3333 %
+Incorrectly Classified Instances         1                6.6667 %
+Kappa statistic                          0     
+Mean absolute error                      0.0564
+Root mean squared error                  0.2069
+Relative absolute error                 11.4542 %
+Root relative squared error             39.5851 %
+Total Number of Instances               15     
+
+Validation 6
+
+Correctly Classified Instances          15              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.0417
+Root mean squared error                  0.1006
+Relative absolute error                  8.4559 %
+Root relative squared error             19.2549 %
+Total Number of Instances               15     
+
+Validation 7
+
+Correctly Classified Instances          15              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.0141
+Root mean squared error                  0.0173
+Relative absolute error                  3.0594 %
+Root relative squared error              3.5291 %
+Total Number of Instances               15     
+
+Validation 8
+
+Correctly Classified Instances          14               93.3333 %
+Incorrectly Classified Instances         1                6.6667 %
+Kappa statistic                          0     
+Mean absolute error                      0.0561
+Root mean squared error                  0.2071
+Relative absolute error                 11.3807 %
+Root relative squared error             39.6229 %
+Total Number of Instances               15     
+
+Validation 9
+
+Correctly Classified Instances          14               93.3333 %
+Incorrectly Classified Instances         1                6.6667 %
+Kappa statistic                          0     
+Mean absolute error                      0.0412
+Root mean squared error                  0.1414
+Relative absolute error                  8.366  %
+Root relative squared error             27.0623 %
+Total Number of Instances               15     
+
+Validation 10
+
+Correctly Classified Instances          15              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.0145
+Root mean squared error                  0.0177
+Relative absolute error                  2.9412 %
+Root relative squared error              3.3962 %
+Total Number of Instances               15     
+
+***DATASET 2***
+Validation 1
+
+Correctly Classified Instances           3               60      %
+Incorrectly Classified Instances         2               40      %
+Kappa statistic                          0     
+Mean absolute error                      0.2514
+Root mean squared error                  0.3926
+Relative absolute error                 76.4479 %
+Root relative squared error             95.5284 %
+Total Number of Instances                5     
+
+Validation 2
+
+Correctly Classified Instances           3               60      %
+Incorrectly Classified Instances         2               40      %
+Kappa statistic                          0     
+Mean absolute error                      0.3111
+Root mean squared error                  0.3944
+Relative absolute error                 89.7436 %
+Root relative squared error             97.7008 %
+Total Number of Instances                5     
+
+Validation 3
+
+Correctly Classified Instances           3               75      %
+Incorrectly Classified Instances         1               25      %
+Kappa statistic                          0     
+Mean absolute error                      0.281 
+Root mean squared error                  0.3563
+Relative absolute error                 90.3061 %
+Root relative squared error             96.5062 %
+Total Number of Instances                4     
+
+Test Number
+3
+
+Correctly Classified Instances           2              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                2     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity <= 75: yes (2.0)
+|   humidity > 75: no (3.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           2              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                2     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity <= 75: yes (2.0)
+|   humidity > 75: no (3.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           2              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                2     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity <= 75: yes (2.0)
+|   humidity > 75: no (3.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           2              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                2     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity <= 75: yes (2.0)
+|   humidity > 75: no (3.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           1              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                1     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity <= 75: yes (2.0)
+|   humidity > 75: no (3.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           1              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                1     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity <= 75: yes (2.0)
+|   humidity > 75: no (3.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           1              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                1     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity <= 75: yes (2.0)
+|   humidity > 75: no (3.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           1              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                1     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity <= 75: yes (2.0)
+|   humidity > 75: no (3.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           1              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                1     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity <= 75: yes (2.0)
+|   humidity > 75: no (3.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           1              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                1     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity <= 75: yes (2.0)
+|   humidity > 75: no (3.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+***DATASET 3***
+Id3
+
+
+petalwidth = '(-inf-0.8]': Iris-setosa
+petalwidth = '(0.8-1.75]': Iris-setosa
+petalwidth = '(1.75-inf)': null
+
+Correctly Classified Instances           0                0      %
+Incorrectly Classified Instances         2              100      %
+Kappa statistic                          0     
+Mean absolute error                      0.4857
+Root mean squared error                  0.6041
+Relative absolute error                 99.3506 %
+Root relative squared error            105.3322 %
+Total Number of Instances                2     
+
+Id3
+
+
+petalwidth = '(-inf-0.8]': Iris-setosa
+petalwidth = '(0.8-1.75]': Iris-setosa
+petalwidth = '(1.75-inf)': null
+
+Correctly Classified Instances           2              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.2222
+Root mean squared error                  0.2722
+Relative absolute error                 71.4286 %
+Root relative squared error             76.2493 %
+Total Number of Instances                2     
+
+Id3
+
+
+petalwidth = '(-inf-0.8]': Iris-setosa
+petalwidth = '(0.8-1.75]': Iris-setosa
+petalwidth = '(1.75-inf)': null
+
+Correctly Classified Instances           1               50      %
+Incorrectly Classified Instances         1               50      %
+Kappa statistic                          0     
+Mean absolute error                      0.2952
+Root mean squared error                  0.3837
+Relative absolute error                 83.0357 %
+Root relative squared error             90.2489 %
+Total Number of Instances                2     
+
+Test Number
+3
+
+Correctly Classified Instances           2              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                2     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity = high: no (3.0)
+|   humidity = normal: yes (2.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           2              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                2     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity = high: no (3.0)
+|   humidity = normal: yes (2.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           2              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                2     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity = high: no (3.0)
+|   humidity = normal: yes (2.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           2              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                2     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity = high: no (3.0)
+|   humidity = normal: yes (2.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           1              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                1     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity = high: no (3.0)
+|   humidity = normal: yes (2.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           1              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                1     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity = high: no (3.0)
+|   humidity = normal: yes (2.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           1              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                1     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity = high: no (3.0)
+|   humidity = normal: yes (2.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           1              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                1     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity = high: no (3.0)
+|   humidity = normal: yes (2.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           1              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                1     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity = high: no (3.0)
+|   humidity = normal: yes (2.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+
+Correctly Classified Instances           1              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances                1     
+
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity = high: no (3.0)
+|   humidity = normal: yes (2.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+
+RESULT
+J48 pruned tree
+------------------
+
+outlook = sunny
+|   humidity = high: no (3.0)
+|   humidity = normal: yes (2.0)
+outlook = overcast: yes (4.0)
+outlook = rainy
+|   windy = TRUE: no (2.0)
+|   windy = FALSE: yes (3.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	8
+

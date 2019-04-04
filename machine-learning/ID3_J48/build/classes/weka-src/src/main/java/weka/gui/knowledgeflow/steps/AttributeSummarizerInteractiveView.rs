@@ -1,0 +1,4 @@
+weka.gui.knowledgeflow.steps.AttributeSummarizerInteractiveView$1
+weka.gui.knowledgeflow.steps.AttributeSummarizerInteractiveView$3
+weka.gui.knowledgeflow.steps.AttributeSummarizerInteractiveView$2
+weka.gui.knowledgeflow.steps.AttributeSummarizerInteractiveView

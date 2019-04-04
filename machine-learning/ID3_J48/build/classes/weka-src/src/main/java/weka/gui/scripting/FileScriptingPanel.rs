@@ -1,0 +1,16 @@
+weka.gui.scripting.FileScriptingPanel$CommandlineArgsAction
+weka.gui.scripting.FileScriptingPanel$AboutAction
+weka.gui.scripting.FileScriptingPanel$SaveAction
+weka.gui.scripting.FileScriptingPanel$PrintAction
+weka.gui.scripting.FileScriptingPanel$ClearOutputAction
+weka.gui.scripting.FileScriptingPanel$StartAction
+weka.gui.scripting.FileScriptingPanel$BasicAction
+weka.gui.scripting.FileScriptingPanel$UndoAction
+weka.gui.scripting.FileScriptingPanel
+weka.gui.scripting.FileScriptingPanel$RedoAction
+weka.gui.scripting.FileScriptingPanel$ExitAction
+weka.gui.scripting.FileScriptingPanel$ScriptUndoableEditListener
+weka.gui.scripting.FileScriptingPanel$1
+weka.gui.scripting.FileScriptingPanel$StopAction
+weka.gui.scripting.FileScriptingPanel$NewAction
+weka.gui.scripting.FileScriptingPanel$OpenAction

@@ -1,0 +1,2 @@
+weka.gui.knowledgeflow.steps.ModelPerformanceChartStepEditorDialog$1
+weka.gui.knowledgeflow.steps.ModelPerformanceChartStepEditorDialog

@@ -1,0 +1,13 @@
+weka.gui.beans.SubstringReplacerCustomizer$9
+weka.gui.beans.SubstringReplacerCustomizer$8
+weka.gui.beans.SubstringReplacerCustomizer$7
+weka.gui.beans.SubstringReplacerCustomizer$6
+weka.gui.beans.SubstringReplacerCustomizer
+weka.gui.beans.SubstringReplacerCustomizer$1
+weka.gui.beans.SubstringReplacerCustomizer$5
+weka.gui.beans.SubstringReplacerCustomizer$4
+weka.gui.beans.SubstringReplacerCustomizer$3
+weka.gui.beans.SubstringReplacerCustomizer$2
+weka.gui.beans.SubstringReplacerCustomizer$11
+weka.gui.beans.SubstringReplacerCustomizer$12
+weka.gui.beans.SubstringReplacerCustomizer$10

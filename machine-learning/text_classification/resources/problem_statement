@@ -1,0 +1,55 @@
+In this homework, you will do experiments on text classification. The documents are collected from epinions.com (Down load the data). Please:
+
+·        Write a program for document representation
+
+Your program must transform Epinions documents into training and test data for WEKA. This means that your program must select features and feature values. Your program must implement three feature selection methods (you can also use weka for feature selection):
+
+chi-square
+pointwise mutual information
+information gain (optional)
+your own feature selection method
+Please list the top 30 features of each algorithm in your final report. (We ask for 30 features  because of the space limit. You may use more than 30 features for the text classification tasks).
+·        Write a program for document classification. It works as follows:
+
+Read the training documents and learn a classifier.
+For each testing document, assign the class label
+Write to a log file the result. The result file should contain the score (such as the probability of the document belongs to the first class), document id, class label (“1” if the document belongs to the first class, “0” otherwise) and run tag. Please use the following format.
+DocID Score  lable
+For example:
+831 0.730352 1 mi-tfidf-svm
+832 0.430352 0 mi-tfidf-svm
+…
+833 0.852 1 mi-tfidf-svm
+834 0.352 0 mi-tfidf-svm
+
+To develop the classifier, you can use Weka Package instead of writing your own classification algorithm. The WEKA documentation and the WEKA software don't match exactly. You can use the WEKA graphical user interface, or to call the WEKA libraries directly from your own Java code.
+Run experiments
+Task 1: Classify documents in the file auto.dat into two category: “Ford car” vs. “other cars” (The field <PRODUCT> gives you the right class label for this task)
+Task 2: Classify documents in the file auto.dat into two categories:” recommend” vs. “do not recommend” (The field <label> gives you the right class label for this task)
+You must do experiments with different combinations of feature selection (phi-square, mutual information, your own algorithm), feature weights (boolean, tf, tf*idf), numbers of features, and text categorization algorithms (Naive Bayes, Decision Tree, Support Vector Machines). Your experiments should be designed to answer the following questions:
+
+Which feature selection method works best? What seems to affect the performance of each algorithm?
+How many features are required for the different tasks, algorithms, and feature weight methods?
+Which text categorization algorithm is the most effective?
+Write a report
+1.      Describe your program
+any programming tools or libraries that you used;
+any other resources you used
+2.      Answer the following questions based on your experimental results.
+1)      Required: the top 30 features of each algorithm for each task.
+2)      Which feature selection method works best? What seems to affect the performance of each algorithm?
+3)      How many features are required for the different tasks, algorithms, and feature weight methods?
+4)      Which text categorization algorithm is the most effective? Why it works better than other algorithms on this task?
+3.      Required: Summarize what you have learned from this assignment at the end of the report.
+Please compress your software source code using winzip and upload this single compressed file together with your report , your two result log files (corresponding to the best classification accuracy on task 1 and task 2) on webCT.
+Restrictions
+
+You can not manually process any of the data
+If you use any resources besides those listed on our course web site, permission from the instructor is required.
+C, C++, Java, Perl, and Python are acceptable. Java is highly recommended since you will call the WEKA libraries directly from your own Java code. If you don’t know Java, you can use Weka graphical user interface or run WEKA from the Windows XP command line, do the following:
+Convert the document into the format (*.arff) Weka command line accepts
+Start / Run / Command
+set CLASSPATH=weka.jar
+To Build a Decision Tree classifier: java weka.classifiers.trees.J48 -t D1.arff
+To Build a Naive Bayes classifier: java weka.classifiers.bayes.NaiveBayes -t D1.arff
+You can also try different classifiers and feature selection algorithms. Your final grade depends on your classification accuracy on the testing data set.

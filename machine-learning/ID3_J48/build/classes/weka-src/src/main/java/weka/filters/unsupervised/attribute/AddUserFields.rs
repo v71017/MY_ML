@@ -1,0 +1,2 @@
+weka.filters.unsupervised.attribute.AddUserFields$AttributeSpec
+weka.filters.unsupervised.attribute.AddUserFields

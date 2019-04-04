@@ -1,0 +1,7 @@
+weka.classifiers.pmml.consumer.Regression$RegressionTable$PredictorTerm
+weka.classifiers.pmml.consumer.Regression$RegressionTable
+weka.classifiers.pmml.consumer.Regression$Normalization
+weka.classifiers.pmml.consumer.Regression$RegressionTable$Predictor
+weka.classifiers.pmml.consumer.Regression
+weka.classifiers.pmml.consumer.Regression$RegressionTable$CategoricalPredictor
+weka.classifiers.pmml.consumer.Regression$RegressionTable$NumericPredictor

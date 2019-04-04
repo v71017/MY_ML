@@ -1,0 +1,13 @@
+weka.gui.beans.SubstringLabelerCustomizer
+weka.gui.beans.SubstringLabelerCustomizer$9
+weka.gui.beans.SubstringLabelerCustomizer$6
+weka.gui.beans.SubstringLabelerCustomizer$5
+weka.gui.beans.SubstringLabelerCustomizer$8
+weka.gui.beans.SubstringLabelerCustomizer$7
+weka.gui.beans.SubstringLabelerCustomizer$2
+weka.gui.beans.SubstringLabelerCustomizer$1
+weka.gui.beans.SubstringLabelerCustomizer$12
+weka.gui.beans.SubstringLabelerCustomizer$4
+weka.gui.beans.SubstringLabelerCustomizer$11
+weka.gui.beans.SubstringLabelerCustomizer$3
+weka.gui.beans.SubstringLabelerCustomizer$10

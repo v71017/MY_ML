@@ -1,0 +1,39 @@
+
+=== Results ===
+
+Correctly Classified Instances       75832               94.0995 %
+Incorrectly Classified Instances      4755                5.9005 %
+Kappa statistic                          0.9166
+Mean absolute error                      0.0159
+Root mean squared error                  0.0893
+Relative absolute error                  8.8687 %
+Root relative squared error             29.7807 %
+Coverage of cases (0.95 level)          99.9975 %
+Mean rel. region size (0.95 level)      14.4525 %
+Total Number of Instances            80587     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 1         0          0.4       1         0.571      1        Died_Prior_to_Crash
+                 0.993     0.072      0.914     0.993     0.952      0.997    Fatal_Injury
+                 0.936     0          0.94      0.936     0.938      1        Injured
+                 0.927     0.015      0.953     0.927     0.94       0.998    No_Apparent_Injury
+                 0.885     0          0.951     0.885     0.917      1        Not_Rep_or_Unknown
+                 0.895     0.004      0.962     0.895     0.927      0.999    Possible_Injury
+                 0.881     0.003      0.976     0.881     0.926      0.999    Suspected_Minor_Injury
+                 0.864     0.001      0.989     0.864     0.922      0.999    Suspected_Serious_Injury
+Weighted Avg.    0.941     0.036      0.943     0.941     0.941      0.998
+
+=== Confusion Matrix ===
+
+     a     b     c     d     e     f     g     h   <-- classified as
+     2     0     0     0     0     0     0     0 |     a = Died_Prior_to_Crash
+     1 34859     1   128     0    26    43    35 |     b = Fatal_Injury
+     0    15   234     0     0     1     0     0 |     c = Injured
+     0  1383     3 18275     0    11    20    12 |     d = No_Apparent_Injury
+     0    62     0    23   682     0     4     0 |     e = Not_Rep_or_Unknown
+     1   517     3   234     7  6622     9     7 |     f = Possible_Injury
+     1   638     3   277    17   114  7965    29 |     g = Suspected_Minor_Injury
+     0   650     5   239    11   107   118  7193 |     h = Suspected_Serious_Injury
+

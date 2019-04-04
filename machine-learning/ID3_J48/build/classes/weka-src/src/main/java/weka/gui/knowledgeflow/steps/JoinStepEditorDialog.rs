@@ -1,0 +1,11 @@
+weka.gui.knowledgeflow.steps.JoinStepEditorDialog$2
+weka.gui.knowledgeflow.steps.JoinStepEditorDialog$1
+weka.gui.knowledgeflow.steps.JoinStepEditorDialog$8
+weka.gui.knowledgeflow.steps.JoinStepEditorDialog$7
+weka.gui.knowledgeflow.steps.JoinStepEditorDialog
+weka.gui.knowledgeflow.steps.JoinStepEditorDialog$9
+weka.gui.knowledgeflow.steps.JoinStepEditorDialog$4
+weka.gui.knowledgeflow.steps.JoinStepEditorDialog$3
+weka.gui.knowledgeflow.steps.JoinStepEditorDialog$6
+weka.gui.knowledgeflow.steps.JoinStepEditorDialog$5
+weka.gui.knowledgeflow.steps.JoinStepEditorDialog$10

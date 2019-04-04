@@ -1,0 +1,4 @@
+weka.gui.knowledgeflow.SQLViewerPerspective$SQLDefaults
+weka.gui.knowledgeflow.SQLViewerPerspective$1
+weka.gui.knowledgeflow.SQLViewerPerspective$2
+weka.gui.knowledgeflow.SQLViewerPerspective

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_101]"/>
+	<classpathentry kind="lib" path="/Users/vpati/Downloads/vert.x-platform.jar"/>
+	<classpathentry kind="lib" path="/Users/vpati/Downloads/vertx-core-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/vpati/Downloads/netty-buffer-4.0.0.cr2.jar"/>
+	<classpathentry kind="lib" path="/Users/vpati/Downloads/netty-common-4.0.24.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/vpati/Downloads/netty-transport-4.0.18.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/vpati/Downloads/netty-all-4.0.0.final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

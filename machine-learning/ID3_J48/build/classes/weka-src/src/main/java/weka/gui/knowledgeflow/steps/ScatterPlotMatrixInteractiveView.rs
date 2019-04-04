@@ -1,0 +1,4 @@
+weka.gui.knowledgeflow.steps.ScatterPlotMatrixInteractiveView
+weka.gui.knowledgeflow.steps.ScatterPlotMatrixInteractiveView$3
+weka.gui.knowledgeflow.steps.ScatterPlotMatrixInteractiveView$2
+weka.gui.knowledgeflow.steps.ScatterPlotMatrixInteractiveView$1
